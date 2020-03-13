@@ -53,7 +53,3 @@ getEmpleado(2, (err, empleado) => {
         console.log(`El salario de ${resp.nombre} es de ${resp.salario}`);
     })
 });
-
-/**
- * 225
-*/
